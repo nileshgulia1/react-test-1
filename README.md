@@ -1,8 +1,7 @@
-# React-Chat-Kit
+# React-Chat
 Chat Application with ReactJS
 
 ### Chat Application -
-![alt text](chat-app.gif)
 
 ### Dependencies & DevDependencies -
 ```
